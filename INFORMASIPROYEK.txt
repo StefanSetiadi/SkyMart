@@ -1,0 +1,11 @@
+IDENTITAS DIRI:
+NIM   : 10121204
+Nama  : Stefan Setiadi Dwitama Putra
+Kelas : IF-5
+
+PHP Version => 8.0.25
+Informarsi proyek:
+1. Jika ingin menggunakan data :
+-  Buat database 10121204_db_uts
+-  Import 10121204_db_uts.sql
+2. Jika tidak, bisa menggunakan php artisan migrate
